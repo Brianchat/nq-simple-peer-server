@@ -1,5 +1,5 @@
 {
-  "name": "simple-peer-server",
+  "name": "nq-simple-peer-server",
   "description": "An example of a signaling server using simple-peer-server.",
   "main": "index.js",
   "version": "0.0.11",
@@ -8,8 +8,8 @@
     "watch": "nodemon --inspect index.js"
   },
   "dependencies": {
-    "simple-peer-server": "",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "simple-peer-server": "^0.0.11"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
