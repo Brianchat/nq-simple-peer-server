@@ -1,6 +1,7 @@
 {
   "name": "simple-peer-server-example",
   "description": "An example of a signaling server using simple-peer-server.",
+  "main": "index.js",
   "version": "0.0.11",
   "scripts": {
     "start": "node index.js",
